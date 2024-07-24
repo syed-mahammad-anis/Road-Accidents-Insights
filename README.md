@@ -35,11 +35,11 @@ Visualizations Include:
 
 Insights from Analysis:
 
-  1.Total Casualties were 417k in 2021 & 2022 and there is decrease of 26k casualities when compared to previous year.  
-  2.Highest Casualties were occured by Car.
-  3.Most number of casualties occurred in day light conditions.
-  4.On 'Single Carriageway' road type, highest casualties of 309.7k occurred.
-  5.Urban areas had a percent share of around 61% in casualties.
-  6.Most number of casualties occurred in dry surface of the location.
+1.Total Casualties were 417k in 2021 & 2022 and there is decrease of 26k casualities when compared to previous year.  
+2.Highest Casualties were occured by Car.
+3.Most number of casualties occurred in day light conditions.
+4.On 'Single Carriageway' road type, highest casualties of 309.7k occurred.
+5.Urban areas had a percent share of around 61% in casualties.
+6.Most number of casualties occurred in dry surface of the location.
   
     

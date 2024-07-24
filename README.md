@@ -3,10 +3,10 @@ Constructed an Excel dashboard to track and interpret road accident data, integr
 
 The objective of the reporrt is clients want to create a Road accident dadhboard for year 2021-2022 so that they can have insights on the requirement.
 
-Stake Holders:
-  Road Transport Department
-  Ministry of Transport
-  Public
+# Stake Holders:
+-->Road Transport Department
+-->Ministry of Transport
+-->Public
 
 Applications Used : Microsoft Excel
 
@@ -17,23 +17,23 @@ Key Performance Indicators (KPI's):
   4. Maximum casualities by road type.
   5. Relation between casualities by the locatiion at day/night.
 
-Steps includes:
+# Steps includes:
 
-  1.Data Cleaning
-  2.Data Processing
-  3.Data Analysis
-  4.Data Visualization 
-  5.Report/Dashboard creation
+1.Data Cleaning
+2.Data Processing
+3.Data Analysis
+4.Data Visualization 
+5.Report/Dashboard creation
 
-Visualizations Include:
+# Visualizations Include:
 
-  1.Donut charts
-  2.Area charts
-  3.Bar graphs
-  4.Pie Charts
-  5.Slicer
+1.Donut charts
+2.Area charts
+3.Bar graphs
+4.Pie Charts
+5.Slicer
 
-Insights from Analysis:
+# Insights from Analysis:
 
 1.Total Casualties were 417k in 2021 & 2022 and there is decrease of 26k casualities when compared to previous year.  
 2.Highest Casualties were occured by Car.
